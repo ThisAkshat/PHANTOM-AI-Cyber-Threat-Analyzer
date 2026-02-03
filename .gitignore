@@ -1,0 +1,17 @@
+# # Add more folders to .gitignore
+# echo "" >> .gitignore
+# echo "# Data folders" >> .gitignore
+# echo "data/" >> .gitignore
+# echo "model/" >> .gitignore
+# echo "traning/" >> .gitignore
+# echo "" >> .gitignore
+# echo "# Temporary files" >> .gitignore
+# echo "*.temp" >> .gitignore
+# echo "*.tmp" >> .gitignore
+
+venv/
+__pycache__/
+*.pyc
+.env
+config.py
+model/

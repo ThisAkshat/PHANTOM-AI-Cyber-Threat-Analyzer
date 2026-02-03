@@ -1,0 +1,16 @@
+text,label
+"Your account has been suspended. Click here to verify immediately.",phishing
+"Dear user, your bank account needs urgent verification.",phishing
+"Congratulations, you won a prize. Click the link now.",phishing
+"Update your password to avoid account closure.",phishing
+"Verify your email to continue using our services.",phishing
+"Your OTP is 432891. Do not share it with anyone.",safe
+"Meeting is scheduled at 10 AM tomorrow.",safe
+"Please find the attached invoice for last month.",safe
+"Happy birthday! Have a great day.",safe
+"Your package will be delivered today.",safe
+"Your PayPal account is locked. Click to unlock.",phishing
+"Security alert: unusual login detected.",phishing
+"Let's meet for coffee this evening.",safe
+"Your Amazon order has been shipped.",safe
+"Confirm your identity to receive funds.",phishing
