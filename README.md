@@ -179,5 +179,5 @@ PHANTOM evaluates text messages using NLP and cyber-rules to detect urgency, man
 ### 🌐 URL Analysis
 Here PHANTOM analyzes a URL using domain reputation, SSL, domain age, and infrastructure risk to detect malicious or fake websites.
 
-![URL Checking](screenshots/URL_CHECKING_jpg)
+![URL Checking](screenshots/URL_CHECKING.jpg)
 
