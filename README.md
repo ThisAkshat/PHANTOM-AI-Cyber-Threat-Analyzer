@@ -150,14 +150,6 @@ PHANTOM correctly reflects this real-world limitation — making it **realistic,
 
 ---
 
-## 👨‍💻 Author
-
-**Akshat Sharma**
-B.Tech CSE | Cyber-AI Developer
-GitHub: [https://github.com/ThisAkshat](https://github.com/ThisAkshat)
-
----
-
 ## 📸 Screenshots
 
 These examples demonstrate how PHANTOM analyzes different types of cyber inputs in real time.
@@ -180,4 +172,13 @@ PHANTOM evaluates text messages using NLP and cyber-rules to detect urgency, man
 Here PHANTOM analyzes a URL using domain reputation, SSL, domain age, and infrastructure risk to detect malicious or fake websites.
 
 ![URL Checking](screenshots/URL_CHECKING.jpg)
+
+---
+
+## 👨‍💻 Author
+
+**Akshat Sharma**
+B.Tech CSE | Cyber-AI Developer
+GitHub: [https://github.com/ThisAkshat](https://github.com/ThisAkshat)
+
 
