@@ -9,6 +9,7 @@
 # echo "*.temp" >> .gitignore
 # echo "*.tmp" >> .gitignore
 
+
 venv/
 __pycache__/
 *.pyc
