@@ -4,7 +4,7 @@ PHANTOM is a **hybrid AI + Cyber-Intelligence based phishing detection engine** 
 
 Unlike basic ML models that rely only on text, PHANTOM simulates how **real security products** (like Google Safe Browsing or enterprise firewalls) think by combining **AI + cyber signals**.
 
----
+---    
 
 ## 🚀 Why PHANTOM is different
 
