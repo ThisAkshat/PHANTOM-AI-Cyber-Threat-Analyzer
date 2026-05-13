@@ -8,6 +8,7 @@ Unlike basic ML models that rely only on text, PHANTOM simulates how **real secu
 
 ## 🚀 Why PHANTOM is different
 
+
 Most phishing projects do this:
 
 > “Train ML model → Predict phishing”
