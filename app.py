@@ -12,7 +12,7 @@ if st.button("Analyze"):
     if text.strip() == "":
         st.warning("Enter some text")
     else:
-        label, conf = predict(text)
+        label, conf = predict(text) 
 
         if label == "phishing":
             st.error("🚨 PHISHING DETECTED")
