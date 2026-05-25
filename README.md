@@ -1,5 +1,5 @@
 # 🛡️ PHANTOM – AI Powered Cyber Threat & Phishing Detection System
-
+  
 PHANTOM is a **hybrid AI + Cyber-Intelligence based phishing detection engine** designed to analyze messages, emails, and URLs in real time and detect modern phishing attacks using **machine learning, domain intelligence, infrastructure analysis, and brand-spoof detection**.
 
 Unlike basic ML models that rely only on text, PHANTOM simulates how **real security products** (like Google Safe Browsing or enterprise firewalls) think by combining **AI + cyber signals**.
