@@ -20,5 +20,5 @@ if st.button("Analyze"):
             st.success("✅ SAFE")
 
         st.write("Confidence:", round(conf * 100, 2), "%")
-
+   
 
