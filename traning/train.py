@@ -44,3 +44,4 @@ for epoch in range(2):
 model.save_pretrained("model")
 tokenizer.save_pretrained("model")
 print("Model saved")
+
