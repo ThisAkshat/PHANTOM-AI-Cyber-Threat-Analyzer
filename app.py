@@ -1,6 +1,6 @@
 import streamlit as st
 from utils.predict import predict
-
+  
 st.set_page_config(page_title="PHANTOM - Cyber AI", page_icon="🛡️")
 
 st.title("🛡️ PHANTOM")
